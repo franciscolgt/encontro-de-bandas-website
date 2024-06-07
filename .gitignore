@@ -3,7 +3,7 @@
 *.log
 *.pyc
 *.swp
-*.DS_Store
+.DS_Store
 .atom/
 .buildlog/
 .history
@@ -27,16 +27,9 @@ migrate_working_dir/
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
-.packages
 .pub-cache/
 .pub/
 /build/
-
-# Generated files
-**/*.freezed.dart
-**/*.g.dart
-**/*.gql.dart
-**/generated
 
 # Symbolication related
 app.*.symbols
@@ -48,8 +41,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Secrets file
-**/GoogleService-Info.plist
-**/firebase_options.dart
-/android/app/google-services.json
