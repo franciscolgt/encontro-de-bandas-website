@@ -23,7 +23,7 @@ class HistorialCard extends StatelessWidget {
         EbrtTitle(text: title),
         const SizedBox(height: 5),
         ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: 1000),
+          constraints: const BoxConstraints(maxWidth: 1000, maxHeight: 400),
           child: EbrtImage(photoName: photo),
         ),
         const SizedBox(height: 20),

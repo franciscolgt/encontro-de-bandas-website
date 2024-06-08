@@ -10,6 +10,9 @@ PreferredSizeWidget? appBar(BuildContext context) {
   return AppBar(
     centerTitle: true,
     backgroundColor: Colors.transparent,
+    shape: const Border(
+      bottom: BorderSide(color: Colors.grey, width: 0.5),
+    ),
     scrolledUnderElevation: 0,
     forceMaterialTransparency: true,
     leading: const Padding(

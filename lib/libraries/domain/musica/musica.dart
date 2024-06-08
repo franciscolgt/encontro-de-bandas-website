@@ -15,3 +15,11 @@ final musicasVincios = [
   Musica(name: 'Fantasia sobre tres temas galegos', author: 'Simón Couceiro'),
   Musica(name: 'The seventh night of July', author: 'Itaru Sakai'),
 ];
+
+final musicasAlvarenga = [
+  Musica(name: 'Feria de Júlio', author: 'Fernando Bonete'),
+  Musica(name: 'Marcha Eslava', author: 'P.I. Tchaikovsky'),
+  Musica(name: 'The Greatest Hits', author: 'Diogo Costa'),
+  Musica(name: 'Cantar Terra', author: 'Diogo Costa'),
+  Musica(name: 'Alvarenga em Marcha', author: 'Fernando Mendes'),
+];

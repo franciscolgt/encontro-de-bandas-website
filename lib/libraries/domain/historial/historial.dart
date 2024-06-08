@@ -20,9 +20,9 @@ final maestros = [
     photoPath: 'maestro_vincios.jpeg',
   ),
   Historial(
-    name: 'Maestro de Alvarenga',
-    curriculum: maestroVincios,
-    photoPath: 'maestro_vincios.jpeg',
+    name: 'Pedro Maia',
+    curriculum: maestroAlvarenga,
+    photoPath: 'maestro_alvarenga.jpeg',
   ),
   Historial(
     name: 'Rodolfo Maia',
@@ -39,8 +39,8 @@ final bandas = [
   ),
   Historial(
     name: 'Sociedade Filarmónica Santa Cruz de Alvarenga',
-    curriculum: bandaVincios,
-    photoPath: 'photo_vincios.png',
+    curriculum: bandaAlvarenga,
+    photoPath: 'photo_alvarenga.jpeg',
   ),
   Historial(
     name: 'Banda S. Cristóvão de Rio Tinto',

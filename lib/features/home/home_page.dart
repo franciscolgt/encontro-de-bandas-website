@@ -17,23 +17,32 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Colors.white,
-      appBar: appBar(context),
-      endDrawer: isLaptop(context) ? null : const SideBar(),
-      persistentFooterButtons: const [Footer()],
-      body: SafeArea(
-        child: ListView(
-          shrinkWrap: true,
-          physics: const ClampingScrollPhysics(),
-          children: [
-            Padding(
-              padding: noPadding
-                  ? EdgeInsets.zero
-                  : const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-              child: body,
+    return InteractiveViewer(
+      child: SelectionArea(
+        child: Scaffold(
+          backgroundColor: Colors.white,
+          appBar: appBar(context),
+          endDrawer: isLaptop(context) ? null : const SideBar(),
+          body: SafeArea(
+            child: ListView(
+              shrinkWrap: true,
+              physics: const ClampingScrollPhysics(),
+              children: [
+                Padding(
+                  padding: noPadding
+                      ? EdgeInsets.zero
+                      : const EdgeInsets.symmetric(
+                          horizontal: 20,
+                          vertical: 10,
+                        ),
+                  child: body,
+                ),
+                const SizedBox(height: 20),
+                const Footer(),
+                const SizedBox(height: 10),
+              ],
             ),
-          ],
+          ),
         ),
       ),
     );

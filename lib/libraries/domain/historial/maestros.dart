@@ -9,7 +9,16 @@ Como experiencia profesional ha sido fagot coosolista de la Orquesta Sinfónica 
 
 Desde el año 2022 es directora de la Agrupación Musical de Vincios, encargándose de las 4 agrupaciones de la asociación (pequebanda, banda infantil, banda xuvenil y la Agrupación Musical de Vincios) además de los grupos de lenguaje musical, actividad que compagina con conciertos de cámara y orquesta como fagotista. Desde su comienzo en la dirección de banda es alumna del prestigioso director de bandas holandés Marcel van Bree.''';
 
-const maestroAlvarenga = '''''';
+const maestroAlvarenga = '''
+Natural do Porto, cresceu e foi criado na freguesia de Gueifães da cidade da Maia (1986). Iniciou os seus estudos em trompa na escola da Banda Marcial de Gueifães na classe de trompa de Álvaro Araújo. Estudou no Conservatório de Música do Porto na classe trompa do Professor Gil Lopes. Licenciou-se na Universidade de Aveiro na classe de trompa do Professor José Bernardo Silva. Frequentou o Mestrado em Ensino da Música na Escola Superior de Artes Aplicadas- Castelo Branco na classe de trompa do Professor Paulo Guerreiro.
+
+Foi membro da Banda Militar do Porto (2011-2017) e faz parte da Orquestra de Câmara da Maia desde 2010. Como músico convidado apresentou-se com a Orquestra da Universidade do Minho, Orquestra Filarmonica das Beiras, Orquestra de Sopros de Santa Maria da Feira, Oporto Chamber Ensemble, Orquestra de Sopros do Conservatório de Música do Porto e Orquestra Sinfónica do Conservatório de Música do Porto. Participou em Festivais Internacionais de Música em Portugal e Espanha.
+
+Trabalhou ainda com diversos maestros a nível nacional e internacional entre eles José Alberto Pina, Henrie Adams, Ernest Schelle, Rafael Vilaplana, Jan Cober, Douglas Bostock, Rui Massena, Cesário Costa, Luís Carvalho, André Granjo, Fernando Marinho, Vítor Matos, Carlos Marques, Luís Cardoso, Francisco Ferreira entre outros.
+
+Atualmente leciona na Academia de Artes de Cinfães, Conservatório das Artes do Marco de Canavezes, Centro Cultural de Amarante e da Fundação Conservatório de Música da Maia.
+
+É desde Novembro de 2022, o Diretor Artístico da Sociedade Filarmónica Santa Cruz de Alvarenga.''';
 
 const maestroRioTinto = '''
 Rodolfo Maia nasceu na Maia, em Janeiro de 1982.
