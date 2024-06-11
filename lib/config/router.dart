@@ -20,26 +20,31 @@ final router = GoRouter(
   },
   routes: [
     GoRoute(
+      name: 'Encontro de Bandas de Rio Tinto',
       path: '/',
       pageBuilder: (context, state) =>
           const NoTransitionPage(child: CartazPage()),
     ),
     GoRoute(
+      name: 'Repertório',
       path: '/repertorio',
       pageBuilder: (context, state) =>
           const NoTransitionPage(child: RepertorioPage()),
     ),
     GoRoute(
+      name: 'Historial das Bandas',
       path: '/historialBandas',
       pageBuilder: (context, state) =>
           const NoTransitionPage(child: HistorialBandasPage()),
     ),
     GoRoute(
+      name: 'Historial dos maestros',
       path: '/historialMaestros',
       pageBuilder: (context, state) =>
           const NoTransitionPage(child: HistorialMaestrosPage()),
     ),
     GoRoute(
+      name: 'Patrocinadores',
       path: '/patrocinadores',
       pageBuilder: (context, state) =>
           const NoTransitionPage(child: PatrocinadoresPage()),

@@ -1,3 +1,4 @@
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 
 import '../../libraries/domain/historial/historial.dart';
@@ -9,6 +10,7 @@ class HistorialBandasPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    FirebaseAnalytics.instance.logEvent(name: 'historial-bandas');
     return HomePage(
       body: ListView.separated(
         shrinkWrap: true,

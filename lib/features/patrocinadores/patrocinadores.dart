@@ -1,3 +1,4 @@
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 
 import '../../libraries/domain/patrocinador/patrocinador.dart';
@@ -10,6 +11,7 @@ class PatrocinadoresPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    FirebaseAnalytics.instance.logEvent(name: 'patrocinadores');
     return HomePage(
       body: Column(
         children: [
