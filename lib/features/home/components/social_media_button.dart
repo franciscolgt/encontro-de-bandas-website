@@ -19,6 +19,7 @@ class SocialMediaButton extends StatelessWidget {
     final laptop = isLaptop(context);
     return InkWell(
       onTap: () {
+        analytics.logEvent(name: socialMedia.firebaseEvent);
         js.context.callMethod('open', [socialMedia.url]);
       },
       hoverColor: Colors.transparent,

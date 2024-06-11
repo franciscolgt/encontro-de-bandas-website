@@ -8,7 +8,7 @@ Website available at https://encontrobandasriotinto.com
 
 - Build the app locally with the canvaskit
 
-`flutter build web --web-renderer canvaskit`
+`flutter build web --web-renderer canvaskit --pwa-strategy=none`
 
 - Deploy to firebase
 

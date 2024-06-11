@@ -1,6 +1,6 @@
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 
+import '../../config/config.dart';
 import '../../libraries/domain/patrocinador/patrocinador.dart';
 import '../../libraries/ui_components/typography/ebrt_title.dart';
 import '../home/home_page.dart';
@@ -11,7 +11,7 @@ class PatrocinadoresPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    FirebaseAnalytics.instance.logEvent(name: 'patrocinadores');
+    analytics.logEvent(name: 'patrocinadores');
     return HomePage(
       body: Column(
         children: [

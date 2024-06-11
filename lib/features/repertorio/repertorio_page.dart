@@ -1,6 +1,6 @@
-import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 
+import '../../config/config.dart';
 import '../../libraries/domain/repertorio/repertorio.dart';
 import '../home/home_page.dart';
 import 'components/band_repertorio.dart';
@@ -10,7 +10,7 @@ class RepertorioPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    FirebaseAnalytics.instance.logEvent(name: 'repertorio');
+    analytics.logEvent(name: 'repertorio');
     return HomePage(
       body: ListView.separated(
         shrinkWrap: true,
