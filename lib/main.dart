@@ -23,6 +23,7 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    analytics.logEvent(name: 'new-session');
     return MaterialApp.router(
       title: 'Encontro de Bandas de Rio Tinto',
       routerConfig: router,
