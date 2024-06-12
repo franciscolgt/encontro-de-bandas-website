@@ -1,11 +1,11 @@
 {
-    "name": "encontro_de_bandas_website",
-    "short_name": "encontro_de_bandas_website",
+    "name": "Encontro de Bandas de Rio Tinto",
+    "short_name": "Encontro de Bandas de Rio Tinto",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Website for Encontro de Bandas de Rio Tinto",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
