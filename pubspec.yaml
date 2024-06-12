@@ -24,6 +24,7 @@ dependencies:
   # Utils
   google_fonts: ^6.2.1
   easy_sidemenu: ^0.6.0
+  flutter_native_splash: ^2.4.0
 
 dev_dependencies:
   flutter_test:

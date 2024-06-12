@@ -1,0 +1,3 @@
+flutter_native_splash:
+  color: "#FFFFFF" #backgound color
+  image: assets/images/bscrt_loading.png
