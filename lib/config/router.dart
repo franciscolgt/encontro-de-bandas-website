@@ -14,7 +14,7 @@ final router = GoRouter(
       '/repertorio',
       '/historialBandas',
       '/historialMaestros',
-      '/patrocinadores',
+      '/apoios',
     ];
     return paths.contains(state.matchedLocation) ? state.matchedLocation : '/';
   },
@@ -44,8 +44,8 @@ final router = GoRouter(
           const NoTransitionPage(child: HistorialMaestrosPage()),
     ),
     GoRoute(
-      name: 'Patrocinadores',
-      path: '/patrocinadores',
+      name: 'Apoios',
+      path: '/apoios',
       pageBuilder: (context, state) =>
           const NoTransitionPage(child: PatrocinadoresPage()),
     ),

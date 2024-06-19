@@ -11,10 +11,10 @@ class Repertorio {
 }
 
 final repertorios = [
-  Repertorio(band: 'Agrupación Musical de Vincius', musics: musicasVincios),
+  Repertorio(band: 'Agrupación Musical de Vincios', musics: musicasVincios),
   Repertorio(
     band: 'Sociedade Filarmónica Santa Cruz de Alvarenga',
     musics: musicasAlvarenga,
   ),
-  Repertorio(band: 'Banda S. Cristóvão de Rio Tinto', musics: musicasVincios),
+  Repertorio(band: 'Banda S. Cristóvão de Rio Tinto', musics: musicasRioTinto),
 ];

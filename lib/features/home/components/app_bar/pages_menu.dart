@@ -26,8 +26,8 @@ class PagesMenu extends StatelessWidget {
         ),
         const SizedBox(width: 20),
         MenuButton(
-          label: 'Patrocinadores',
-          onPressed: () => context.go('/patrocinadores'),
+          label: 'Apoios',
+          onPressed: () => context.go('/apoios'),
         ),
       ],
     );

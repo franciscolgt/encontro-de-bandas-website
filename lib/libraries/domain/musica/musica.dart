@@ -23,3 +23,10 @@ final musicasAlvarenga = [
   Musica(name: 'Cantar Terra', author: 'Diogo Costa'),
   Musica(name: 'Alvarenga em Marcha', author: 'Fernando Mendes'),
 ];
+
+final musicasRioTinto = [
+  Musica(name: 'Espana Cani', author: 'Toshio Mashima'),
+  Musica(name: 'Abertura Nobilíssima', author: 'Robert Jager'),
+  Musica(name: 'Porgy and Bess', author: 'George Gershwin, arr.: James Barnes'),
+  Musica(name: 'Led Zeppelin on Tour', author: 'arr.: Patrick Roszell'),
+];

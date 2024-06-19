@@ -21,7 +21,7 @@ class SideBar extends StatelessWidget {
             title: 'Historial dos Maestros',
             path: '/historialMaestros',
           ),
-          _SideBarItem(title: 'Patrocinadores', path: '/patrocinadores'),
+          _SideBarItem(title: 'Apoios', path: '/apoios'),
         ],
       ),
     );

@@ -1,13 +1,11 @@
 const maestroVincios = '''
-Nace en Mairena del Alcor, Sevilla, en el año 1993. Comienza sus estudios musicales a la edad de 8 años en el Conservatorio Profesional de Música Francisco Guerrero de Sevilla, donde los finaliza con premio extraordinario en la especialidad de fagot.
+Nasceu em Mairena del Alcor, Sevilha, no ano de 1993. Inicia os seus estudos musicais aos 8 anos de idade no Conservatório Profissional de Música Francisco Guerrero de Sevilha, onde os finaliza com prémio extraordinário na especialidade de fagote. Continuou a sua formação académica no Conservatório Superior de Música de Castilla y León com os professores Álvaro Prieto, Guillermo Salcedo e Carlos Tarancón, terminando os seus estudos superiores com nota máxima em 2017. Durante os seus anos de conservatório, realiza masterclasses com fagotistas como Guillaume Santana, Mor Biron e Marco Postingel.
 
-Continúa su formación academica en el Conservatorio Superior de Música de Castilla y León con los profesores Álvaro Prieto, Guillermo Salcedo y Carlos Tarancón, acabando sus estudios superiores con sobresaliente en el año 2017. Durante sus años de conservatorio realiza Masterclass con fagotistas como Guillaume Santana, Mor Biron y Marco Postingel.
+Complementa as suas atividades académicas com projetos de orquestras jovens como a Orquesta Joven de Extremadura, Orquesta Joven de Andalucia, Fundación Baremboim-Said e a National Youth Orchestra da Holanda.
 
-Complementa sus actividades académicas con proyectos de orquestas jóvenes como la Orquesta Joven de Extremadura, Orquesta Joven de Andalucía, Fundación Baremboim-Said y la National Youth Orchestra de Holanda.
+Como experiência profissional, foi fagote solista da Orquesta Sinfónica de Tenerife, Orquesta de Córdoba, Orquesta de Extremadura e Orquesta Ciudad de Melilla. Complementa a sua formação profissional com o Mestrado de Formação de Professores e o Módulo de Formação Orquestral da Fundación Baremboim-Said.
 
-Como experiencia profesional ha sido fagot coosolista de la Orquesta Sinfónica de Tenerife, Orquesta de Córdoba, Orquesta de Extremadura y Orquesta Ciudad de Melilla. Complementa su formación profesional con el Máster de Formación del Profesorado y el Módulo de formación Orquesta de la Fundación Baremboim-Said.
-
-Desde el año 2022 es directora de la Agrupación Musical de Vincios, encargándose de las 4 agrupaciones de la asociación (pequebanda, banda infantil, banda xuvenil y la Agrupación Musical de Vincios) además de los grupos de lenguaje musical, actividad que compagina con conciertos de cámara y orquesta como fagotista. Desde su comienzo en la dirección de banda es alumna del prestigioso director de bandas holandés Marcel van Bree.''';
+Desde 2022, é diretora da Agrupación Musical de Vincios, encarregando-se das 4 valências da associação (pequebanda, banda infantil, banda juvenil e a Agrupación Musical de Vincios), além dos grupos de linguagem musical, atividade que concilia com concertos de câmara e orquestra como fagotista. Desde o início da sua direção de banda, é aluna do prestigiado maestro de bandas holandês Marcel van Bree.''';
 
 const maestroAlvarenga = '''
 Natural do Porto, cresceu e foi criado na freguesia de Gueifães da cidade da Maia (1986). Iniciou os seus estudos em trompa na escola da Banda Marcial de Gueifães na classe de trompa de Álvaro Araújo. Estudou no Conservatório de Música do Porto na classe trompa do Professor Gil Lopes. Licenciou-se na Universidade de Aveiro na classe de trompa do Professor José Bernardo Silva. Frequentou o Mestrado em Ensino da Música na Escola Superior de Artes Aplicadas- Castelo Branco na classe de trompa do Professor Paulo Guerreiro.
@@ -21,7 +19,7 @@ Atualmente leciona na Academia de Artes de Cinfães, Conservatório das Artes do
 É desde Novembro de 2022, o Diretor Artístico da Sociedade Filarmónica Santa Cruz de Alvarenga.''';
 
 const maestroRioTinto = '''
-Rodolfo Maia nasceu na Maia, em Janeiro de 1982.
+Nasceu na Maia, em Janeiro de 1982.
 
 Estudou Clarinete, Fagote e Saxofone com os professores Luciano Machado, Carlos Canhoto, Mónica Pais, Robert Glassburner, Francisco Ferreira, Jean-Marie Londeix, Arno Bornkamp, Alfonso Padilla e Jacob Ter Veldhuis nos Conservatórios de Música da Maia e do Porto e na Escola Superior de Música e Artes do Espetáculo do Porto.
 
@@ -29,10 +27,4 @@ Tocou com a Banda de Música de Moreira da Maia, Orquestras de Saxofones do Port
 
 Iniciou os seus estudos na área de direção de banda com o maestro Jacinto Montezo, prosseguindo com os maestros Luís Clemente, Bert Appermont, Carlos Amarelinho, Paulo Ramos, Jaime Branco, Jacob de Haan, António Saiote, José Ignacio Petit, José Rafael Pascual Vilaplana, Marcelo Jardim, Jean-Marc Burfin, Hadrián Ávila, Steven Bryant e Verena Moesenbichler-Bryant, tralhando atualmente (desde 2015) com o maestro Paulo Martins, no curso de formação contínua para maestros, da BCA_Band Conducting Academy;
 
-Dirigiu a OLB3m - Orquestra Ligeira da Banda de Música de Moreira da Maia (2008-2010), Banda da Sociedade Filarmónica Louriçalense – Pombal (2009), Banda Musical de Cabreiros – Braga (2010-2014), Tuna Académica do ISMAI_Instituto Superior da Maia (2013), Filarmónica Ressurreição de Mira (2013-2015), Filarmónica Verdi Cambrense – Vouzela,(2017-2022), dirigindo atualmente (desde Novembro de 2022) a Banda S. Cristóvão de Rio Tinto.
-
-Obteve o 2.o Prémio no Concurso Nacional de Maestros inserido no Estágio Nacional da Orquestra de Sopros de Esposende, em 2013; Faz parte da organização do Concurso Internacional de Bandas CIB – Filarmonia D’Ouro, desde a sua 1.a edição; e é membro associado da WASBE – World Association for Symphonic Bands and Ensembles.
-
-Leciona atualmente as classes de Saxofone nas Escolas de Música “7 Notas” e “Aqui há música!” Como sax performer faz animação de eventos, agenciado pelas empresas “FunBox” e “DJVox”, para além de acompanhar a banda da cantora brasileira Naiara Queiroz;
-
-Paralelamente, licenciou – se em Engenharia Civil pelo Instituto Politécnico de Bragança, desenvolvendo atualmente a sua atividade profissional na área da Acústica e da Certificação de Edifícios.''';
+Dirigiu a OLB3m - Orquestra Ligeira da Banda de Música de Moreira da Maia (2008-2010), Banda da Sociedade Filarmónica Louriçalense – Pombal (2009), Banda Musical de Cabreiros – Braga (2010-2014), Tuna Académica do ISMAI_Instituto Superior da Maia (2013), Filarmónica Ressurreição de Mira (2013-2015), Filarmónica Verdi Cambrense – Vouzela,(2017-2022), dirigindo atualmente (desde Novembro de 2022) a Banda S. Cristóvão de Rio Tinto.''';

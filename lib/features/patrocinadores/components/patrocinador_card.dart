@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../libraries/domain/patrocinador/patrocinador.dart';
+import '../../../libraries/ui_components/image/ebrt_image.dart';
 import '../../../libraries/ui_components/typography/ebrt_text.dart';
 
 class PatrocinadorCard extends StatelessWidget {
@@ -13,13 +14,21 @@ class PatrocinadorCard extends StatelessWidget {
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        const SizedBox(
+        SizedBox(
           height: 150,
-          width: 150,
-          child: Placeholder(),
+          width: 200,
+          child:
+              EbrtImage(photoName: 'patrocinadores/${patrocinador.photoPath}'),
         ),
         const SizedBox(height: 10),
-        EbrtText(text: patrocinador.name),
+        Container(
+          width: 200,
+          alignment: Alignment.center,
+          child: EbrtText(
+            text: patrocinador.name,
+            alignment: TextAlign.center,
+          ),
+        ),
       ],
     );
   }

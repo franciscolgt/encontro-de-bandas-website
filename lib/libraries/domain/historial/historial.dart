@@ -33,7 +33,7 @@ final maestros = [
 
 final bandas = [
   Historial(
-    name: 'Agrupación Musical de Vincius',
+    name: 'Agrupación Musical de Vincios',
     curriculum: bandaVincios,
     photoPath: 'photo_vincios.png',
   ),

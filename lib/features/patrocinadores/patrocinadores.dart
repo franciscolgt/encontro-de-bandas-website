@@ -15,7 +15,7 @@ class PatrocinadoresPage extends StatelessWidget {
     return HomePage(
       body: Column(
         children: [
-          const EbrtTitle(text: 'O nosso obrigado aos nossos patrocinadores:'),
+          const EbrtTitle(text: 'Os nossos apoios:'),
           const SizedBox(height: 30),
           Wrap(
             spacing: 40,
